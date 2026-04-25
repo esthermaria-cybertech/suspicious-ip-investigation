@@ -1,24 +1,24 @@
-# Suspicious IP Investigation
+# Suspicious IP Analysis
 
 ## 📌 Objective
-To investigate suspicious IP activity found in system logs.
+To investigate suspicious IP activity identified in system logs.
 
 ## 🔍 Scenario
-A suspicious IP address was detected making repeated access attempts to a system.
+A suspicious IP address was detected making repeated connection attempts to a system over a short period of time.
 
 ## 📂 Project Files
-- ip-log.txt → Contains IP activity logs
-- investigation.txt → Analysis of suspicious behavior
+- ip-log.txt → Raw IP activity logs  
+- investigation.txt → Analysis of suspicious behavior  
 
 ## 🚨 Findings
-- Repeated access attempts from a single IP
-- Multiple failed logins
-- Possible brute force or scanning activity
+- Multiple repeated access attempts from a single IP address  
+- Several failed login attempts detected  
+- Pattern suggests possible brute force or scanning activity  
 
 ## ✅ Conclusion
-The IP shows malicious behavior and should be monitored or blocked.
+The IP address shows suspicious behavior and should be monitored, restricted, or blocked if necessary.
 
 ## 💡 Skills Demonstrated
-- IP analysis
-- Threat detection
-- Basic incident investigation
+- IP log analysis  
+- Threat detection  
+- Security investigation
