@@ -1,0 +1,15 @@
+IP INVESTIGATION REPORT
+
+Suspicious IP: 203.0.113.45
+
+Observations:
+- Repeated login attempts to the system
+- Multiple failed login attempts within a short time
+- Successful login after several failures
+- Sensitive file accessed after login
+
+Analysis:
+This behavior is consistent with a brute force attack followed by unauthorized access.
+
+Conclusion:
+The IP 203.0.113.45 is suspicious and should be monitored or blocked.
